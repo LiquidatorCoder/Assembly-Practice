@@ -4,7 +4,7 @@ This repo contains some of my 8086 Assembly Codes which I have written for praci
 ## Contents
 |Program                          |Link                         |
 |-------------------------------|-----------------------------|
-|Program to display the value of AX register on screen|[🔗 Link](https://github.com/LiquidatorCoder/Assembly-Practice/blob/master/dispax.asm)           |
+|Program to display the value of AX register on screen|[🔗 Link](https://github.com/LiquidatorCoder/Assembly-Practice/blob/master/DISPAX.asm)           |
 |Program to display the sum of value in AX and BX registers on screen|[🔗 Link](https://github.com/LiquidatorCoder/Assembly-Practice/blob/master/ADD.asm)            |
 |Program to display the difference of value in AX and BX registers|[🔗 Link](https://github.com/LiquidatorCoder/Assembly-Practice/blob/master/SUB.asm)|
 |Program to display the and of value in AX and BX registers on screen|[🔗 Link](https://github.com/LiquidatorCoder/Assembly-Practice/blob/master/AND.asm)|

@@ -24,6 +24,7 @@ This repo contains some of my 8086 Assembly Codes which I have written for praci
 |Program to convert binary to grey code|[🔗 Link](https://github.com/LiquidatorCoder/Assembly-Practice/blob/master/BINGREY.asm)|
 |Program to find square root of 2-digit number|[🔗 Link](https://github.com/LiquidatorCoder/Assembly-Practice/blob/master/SQR.asm)|
 |Program to find out the largest element in an array of numbers|[🔗 Link](https://github.com/LiquidatorCoder/Assembly-Practice/blob/master/LARGEST.asm)|
+|Program To Read And Display A Key From Keyboard|[🔗 Link](https://github.com/LiquidatorCoder/Assembly-Practice/blob/master/READKEY.asm)|
 
 ## Tools Used
 - MASM

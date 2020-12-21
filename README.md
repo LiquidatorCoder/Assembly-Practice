@@ -28,6 +28,7 @@ This repo contains some of my 8086 Assembly Codes which I have written for praci
 |Program to find out the positive or negative numbers from a given series of signed numbers|[🔗 Link](https://github.com/LiquidatorCoder/Assembly-Practice/blob/master/NEGPOS.asm)|
 |Program to find out the even or odd numbers from a given series of numbers|[🔗 Link](https://github.com/LiquidatorCoder/Assembly-Practice/blob/master/EVENODD.asm)|
 |Program to sort the sequence of numbers in ascending order|[🔗 Link](https://github.com/LiquidatorCoder/Assembly-Practice/blob/master/ASCSORT.asm)|
+|Program to convert BCD number into equivalent binary number|[🔗 Link](https://github.com/LiquidatorCoder/Assembly-Practice/blob/master/BCDBIN.asm)|
 
 ## Tools Used
 - MASM

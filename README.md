@@ -26,6 +26,8 @@ This repo contains some of my 8086 Assembly Codes which I have written for praci
 |Program to find out the largest element in an array of numbers|[🔗 Link](https://github.com/LiquidatorCoder/Assembly-Practice/blob/master/LARGEST.asm)|
 |Program to read and display a key from keyboard|[🔗 Link](https://github.com/LiquidatorCoder/Assembly-Practice/blob/master/READKEY.asm)|
 |Program to find out the positive or negative numbers from a given series of signed numbers|[🔗 Link](https://github.com/LiquidatorCoder/Assembly-Practice/blob/master/NEGPOS.asm)|
+|Program to find out the even or odd numbers from a given series of numbers|[🔗 Link](https://github.com/LiquidatorCoder/Assembly-Practice/blob/master/EVENODD.asm)|
+
 
 ## Tools Used
 - MASM

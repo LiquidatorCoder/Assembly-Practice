@@ -29,6 +29,7 @@ This repo contains some of my 8086 Assembly Codes which I have written for praci
 |Program to find out the even or odd numbers from a given series of numbers|[🔗 Link](https://github.com/LiquidatorCoder/Assembly-Practice/blob/master/PROGRAMS/EVENODD.asm)|
 |Program to sort the sequence of numbers in ascending order|[🔗 Link](https://github.com/LiquidatorCoder/Assembly-Practice/blob/master/PROGRAMS/ASCSORT.asm)|
 |Program to convert BCD number into equivalent binary number|[🔗 Link](https://github.com/LiquidatorCoder/Assembly-Practice/blob/master/PROGRAMS/BCDBIN.asm)|
+|Program to store letters A to Z in memory starting at the address B800H: 0000H|[🔗 Link](https://github.com/LiquidatorCoder/Assembly-Practice/blob/master/PROGRAMS/AZSTORE.asm)|
 
 ## Tools Used
 - MASM
